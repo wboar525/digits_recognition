@@ -1,6 +1,0 @@
-Model,Accuracy,TrainingTime
-Logistic Regression,0.9704,0.0133
-SVM (RBF kernel),0.9796,0.0230
-Random Forest,0.9759,0.1445
-Gradient Boosting,0.9685,3.4969
-MLP Neural Network,0.9833,0.2740
