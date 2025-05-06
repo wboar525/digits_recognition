@@ -1,0 +1,43 @@
+# ───── Python ─────
+__pycache__/
+*.py[cod]
+*.so
+*.pyd
+*.pyo
+
+# ───── Модельные артефакты ─────
+models/
+*.joblib
+*.pkl
+*.h5
+*.pt
+
+# ───── Streamlit ─────
+.streamlit/
+
+# ───── Результаты и логи ─────
+*.csv
+*.tsv
+*.log
+*.json
+*.xlsx
+
+# ───── Jupyter / Colab ─────
+*.ipynb
+.ipynb_checkpoints/
+
+# ───── IDE / Редакторы ─────
+.vscode/
+.idea/
+*.swp
+
+# ───── Системные файлы ─────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ───── Виртуальное окружение ─────
+venv/
+env/
+.env/
+.venv/
